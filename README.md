@@ -1,1 +1,1 @@
-# proposal-website
+# proposal
